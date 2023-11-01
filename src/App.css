@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.searchIcon{
+  padding-top: 12px !important;
+  padding: 11px;
+  background-color: white;
+    border-right: none;
+    border-radius: unset;
+}
+
+.inputForm{
+  border-left: none;
+    border-radius: unset;
+}
+
+.bellCol{
+  width: 50px;
+}
+
+.badge {
+  background-color: orange;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  border-radius: 5px;
+  position: absolute;
+}
+
+.idNumber{
+  color: blue !important;
+}
